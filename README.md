@@ -1,5 +1,7 @@
 # Go ptr utility
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/denisdubochevalier/ptr.svg)](https://pkg.go.dev/github.com/denisdubochevalier/ptr)
+
 A tiny, generic Go utility package to create pointers from literal values
 
 ## The problem
