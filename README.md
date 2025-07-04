@@ -1,6 +1,13 @@
 # Go ptr utility
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/denisdubochevalier/ptr.svg)](https://pkg.go.dev/github.com/denisdubochevalier/ptr)
+![GitHub go.mod Go version (subdirectory of monorepo)](https://img.shields.io/github/go-mod/go-version/denisdubochevalier/ptr)
+![Build Status](https://github.com/denisdubochevalier/ptr/actions/workflows/go.yml/badge.svg)
+![Lint Status](https://github.com/denisdubochevalier/ptr/actions/workflows/golangci-lint.yml/badge.svg)
+[![Go report](https://goreportcard.com/badge/github.com/denisdubochevalier/ptr)](https://goreportcard.com/report/github.com/denisdubochevalier/ptr)
+[![Coverage](https://img.shields.io/codecov/c/github/denisdubochevalier/ptr)](https://codecov.io/gh/denisdubochevalier/ptr)
+[![License](https://img.shields.io/github/license/denisdubochevalier/ptr)](./LICENSE)
+
 
 A tiny, generic Go utility package to create pointers from literal values
 
